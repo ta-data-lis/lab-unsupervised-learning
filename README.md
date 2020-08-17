@@ -7,7 +7,7 @@
 
 Some people think unsupervised learning is boring because there isn't any specific output to predict or evaluate. Other people, especially the machine learning experts, consider unsupervised learning the future of data science because it resembles how human beings learn. Think how a kid learns what a dog is. Dad and mom don't show 100K animals and tell her which ones are dogs. Rather, the kid will keep encountering dogs in her daily experience and after a number of encounterings she will extract the common features of dogs and recognize new ones.
 
-In unsupervised learning, the classic task is cluster analysis in which you find hidden patterns or groups in data. At most times unsupervised learning tasks are open-ended and you will need to make sense of the data without any clear-defined pathways. But if you keep training yourself and eventually become good at finding pathways out of nowhere, you'll be an established data scientist. This is why you should take unsupervised learning serious.
+In unsupervised learning, the classic task is cluster analysis in which you find hidden patterns or groups in data. At most times unsupervised learning tasks are open-ended and you will need to make sense of the data without any clear-defined pathways. But if you keep training yourself and eventually become good at finding pathways out of nowhere, you'll be an established data scientist. This is why you should take unsupervised learning seriously.
 
 In this lab, we will present you an unsupervised learning problem without clearly defined goals. Your general objective is to cluster the data and see if you can extract useful insights. But of course we will provide the necessary instructions to help you get started.
 
